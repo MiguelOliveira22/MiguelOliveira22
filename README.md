@@ -1,7 +1,7 @@
 # MiguelQueiroz
-### Desenvolvedor Inexperiente e Esperançoso!
+### Código É Vida!
 
-Desde O Dia Em Que Descobri Que O Código Era Algo Tangível, Que Existia, Eu Me Interessei Por Essa Área. O Meu Amor E A Minha Vida Gira Em Torno Dessas Maquinas Malucas E Eu Me Empenho Em Conseguir Ser Cada Vez Mais Capaz Na Computação!
+Desde O Dia Em Que Descobri O Código Como Algo Tangível, Que Existia E Que Funcionava Como Ferramenta, Eu Me Interessei Por Essa Área. Gosto Muito Dessas Maquinas Malucas E Eu Me Empenho Cada Vez Mais Para Desenvolver Algo Incrível Com Elas!
 
 ## Conhecimentos
 
